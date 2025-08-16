@@ -26,7 +26,8 @@ It highlights key performance metrics and identifies best and worst-performing p
 2. Download and open `pizza_sales_dashboard.pbix` in Power BI Desktop to explore the dashboard.
 
 ## Dashboard Preview
-![Dashboard images]("C:\Users\Aanya\OneDrive\Desktop\pizza_sales_images")
+![Dashboard images]("Screenshot 2025-08-16 004522.png")
+![Dashboard images]("Screenshot 2025-08-16 004540.png")
 
 
 ---

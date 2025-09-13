@@ -20,11 +20,12 @@ It highlights key performance metrics and identifies best and worst-performing p
 - `screenshots/` – Dashboard preview images.
 
 
-
 ## How to View
 1. Open `pizza_sales.sql` in any SQL client to view the queries.
 2. Download and open `pizza_sales_dashboard.pbix` in Power BI Desktop to explore the dashboard
 
+
+![image alt](https://github.com/Aanya-Gupta1/Pizza-Sales-Dashboard/blob/f6fc56d2fc46043fe31d0aa7dce20bf4d5832b14/screenshot_1.png)
 
 ---
 *Author: Aanya Gupta*

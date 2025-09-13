@@ -26,6 +26,7 @@ It highlights key performance metrics and identifies best and worst-performing p
 
 
 ![image alt](https://github.com/Aanya-Gupta1/Pizza-Sales-Dashboard/blob/f6fc56d2fc46043fe31d0aa7dce20bf4d5832b14/screenshot_1.png)
+![image alt](https://github.com/Aanya-Gupta1/Pizza-Sales-Dashboard/blob/74249c0e16997d37faca7bc979b5990f689034db/screenshot_2.png)
 
 ---
 *Author: Aanya Gupta*
